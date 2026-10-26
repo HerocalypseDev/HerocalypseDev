@@ -7,8 +7,7 @@ I build, host and manage custom Discord bots for communities.
 - Databases, API integrations, backups and 24/7 hosting
 - Tested, versioned releases with a full git history
 
-**Website:** https://herocalypsedev.github.io
-**Hire me:** <Contra profile link>
+**Hire me:** Discord `Herocalypsedev`, or see https://herocalypsedev.github.io
 
 ## Featured project
 
